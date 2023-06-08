@@ -1,0 +1,18 @@
+{
+  "name": "js-intro-to-crud-apis01-nevina-bradley",
+  "version": "1.0.0",
+  "description": "Welcome to our lab on building a simple Node Express app to store contact addresses in a JSON file! In this lab, we will explore the fascinating world of web development and learn about HTTP methods, which are essential for communication between web applications and servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jest": "^29.5.0",
+    "supertest": "^6.3.3"
+  }
+}
